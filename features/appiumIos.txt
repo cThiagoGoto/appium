@@ -1,0 +1,6 @@
+[caps]
+platformName= "iOS"
+platformVersion= "11.4"
+deviceName= "iPhone 7"
+app= "~/Desktop/AutMobile/apk/PSMyAccountQA.app"
+automationName = "XCUITest" 
